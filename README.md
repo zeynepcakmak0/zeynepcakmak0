@@ -1,4 +1,4 @@
--🙋 I'm Zeynep. I major in Mechatronics Engineering at Bursa Technical University in Turkey.
+- 🙋 I'm Zeynep. I major in Mechatronics Engineering at Bursa Technical University in Turkey.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 📫 How to reach me zeynepckmk16@gmail.com
